@@ -1,0 +1,26 @@
+{
+  "name": "academyproject",
+  "version": "1.0.0",
+  "description": "final project for Angular/Node academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startDev": "nodemon index.js"
+  },
+  "keywords": [
+    "academy",
+    "project",
+    "nodejs",
+    "angular"
+  ],
+  "author": "JLiev",
+  "license": "ISC",
+  "dependencies": {
+    "bodymen": "^1.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
